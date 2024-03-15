@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.hm{
+    background-color: darkblue;
+    color: white;
+    height: 50px;
+}
+
+.hme{
+    margin-left: 40%;
+    padding-top: 10px;
+}
+
+.int{
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: azure;
+    padding: 20px;
+    line-height: 30px;
+
+    h6{
+        color: orangered;
+        margin-left: 40%;
+        font-size: 20px;
+    }
+}
+
+
+.igt{
+    display: flex;
+    justify-content: center;
+}
+.ig{
+      
+    position: relative;    
+    flex-basis: 50%;
+    
+    
+}
+
+.des{
+    
+    position: relative;
+    flex-basis: 50%;
+    padding: 200px;
+    color: darkblue;
+    font-size: 30px;
+    text-decoration: underline;
+    text-decoration-color: orangered;
+}
+
+.gallry{
+    background-color: darkcyan;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    height: 100vh;
+    padding: 0 4px;
+
+
+}
+
+.yrt{
+    background-color: darkcyan;
+    padding: 10px;
+
+
+    h6{
+        color: white;
+        font-size: 30px;
+        margin-left: 40%;
+    }
+}
+
+.column1{
+    flex-basis: 30%;
+    padding: 0 4px;
+
+    img{
+        vertical-align: center;
+        height: 150px;
+
+    }
+}
+
+.column2{
+    flex-basis: 30%;
+    padding: 0 4px;
+    img{
+        vertical-align: center;
+        height: 150px;
+
+    }
+}
+
+.column3{
+    flex-basis: 30%;
+    padding: 0 4px;
+
+    img{
+        vertical-align: center;
+        height: 150px;
+
+    }
+}
+
+.men{
+    background-color: darkcyan;
+    height: 200px;
+
+    h4{
+        background-color: brown;
+        color: white;
+        width: 30%;
+        margin-left: 40%;
+        padding: 5px;
+        align-content: center;
+
+    }
+}
+
+.fud{
+    line-height: 30px;
+    margin-left: 20%;
+
+    a li{
+        color: white;
+        list-style: bullets;
+        font-size: 30px;
+        
+    }
+
+    a{
+        text-decoration: none;
+    }
+}
+
+.thk{
+    background-image:  url(Images/d3.jpg);
+    height: 100px;
+    
+
+    h4{
+        margin-left: 40%;
+        color: orangered;
+        font-size: 100px;
+        stroke: white;
+        stroke-width: 5px;
+    }
+    
+}
+
